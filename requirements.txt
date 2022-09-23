@@ -68,7 +68,7 @@ Pillow==3.1.2
 piston-mini-client==0.7.5
 prometheus-client==0.3.1
 prompt-toolkit==2.0.5
-protobuf==3.6.1
+protobuf==3.18.3
 ptyprocess==0.5
 pyasn1==0.1.9
 pycrypto==2.6.1
